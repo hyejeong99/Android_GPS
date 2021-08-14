@@ -1,0 +1,2 @@
+rootProject.name = "HAJE_gps"
+include ':app'
